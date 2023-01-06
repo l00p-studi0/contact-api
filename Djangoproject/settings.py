@@ -141,3 +141,10 @@ STATICFILES_DIRS = [
 # EMAIL_PORT = 587
 # EMAIL_USE_TLS = True
 
+# CSRF_TRUSTED_ORIGINS = [
+#     "",
+#     "",
+#     ]
+
+
+PYTHON_VERSION = 3.7
